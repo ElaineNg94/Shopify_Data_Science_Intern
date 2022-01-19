@@ -1,4 +1,4 @@
-# Shopify_Intern
+# Shopify_Data_Science_Intern
 ## Question 1
 
 **A) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.**
