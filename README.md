@@ -3,7 +3,7 @@
 
 **A) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data.**
 
-The calculation could be wrong because it might not be for just one item in the order. The customer may have ordered multiple items to get that large price tag.
+The calculation could be wrong because it might not be for just one item in the order, but for multiple items added up together for one order. The customer may have ordered multiple items to get that large $3145.13 AOV price tag.
 
 **B) What metric would you report for this dataset?**
 
