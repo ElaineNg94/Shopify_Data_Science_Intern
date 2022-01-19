@@ -7,7 +7,7 @@ The calculation could be wrong because it might not be for just one item in the 
 
 **B) What metric would you report for this dataset?**
 
-Since we know they only sell one type of shoe, I would divide the total amount of orders_values with the amount of total_items sold to get a better idea of each shoe since they all **_should_** be the same price.
+Since we know they only sell one type of shoe, I would divide the total order_amount with the amount of total_items sold to get a better idea of each shoe since they all **_should_** be the same price.
 
 **C) What is its value?**
 
